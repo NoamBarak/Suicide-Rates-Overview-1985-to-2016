@@ -1,5 +1,8 @@
 # Suicide Risk Prediction System for Psychiatrists 👩🏻‍⚕️
 
+![Alt Text](picture.png)
+
+
 ## Introduction
 In psychiatry, patients may resist collaboration, leading to potential misdiagnoses. Our goal is to aid psychiatrists in assessing suicide risk, utilizing a comprehensive database. We offer tools to identify subtle indicators, aiming for improved patient care outcomes.
 
@@ -29,3 +32,4 @@ To enhance usability, we included visual aids such as tables and graphs for psyc
 
 ## Summary and Conclusions
 Through this project, we explored various relevant models and compared their performance. We aim to assist psychiatrists in diagnosing suicidal tendencies based on statistical data rather than relying solely on verbal communication. Despite challenges, including potential errors in conversation-based assessments, our system provides an additional objective tool for psychiatrists to minimize future suicides and save lives.
+
