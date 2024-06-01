@@ -1,9 +1,7 @@
 # Suicide Risk Prediction System for Psychiatrists 👩🏻‍⚕️
 
 ## Introduction
-Sometimes, patients come to psychiatrists under coercion and without collaboration. As a result, psychiatrists may provide incorrect diagnoses and fail to assist them effectively. Research has shown that exposure to suicide cases may lead to additional cases. Therefore, statistically speaking, if there are many suicide cases in a specific area or age group, there is a higher chance that individuals in that group will act on their suicidal thoughts.
-
-Our goal is to assist psychiatrists in diagnosing patients regarding their suicide risk. We utilized a database mapping cases based on various parameters, including country, gender, and age group. Despite a psychiatrist's experience, diagnostic errors can lead to unfortunate and irreversible outcomes. Thus, we offer a system to help psychiatrists identify patients with suicidal tendencies, even if to a small extent.
+In psychiatry, patients may resist collaboration, leading to potential misdiagnoses. Our goal is to aid psychiatrists in assessing suicide risk, utilizing a comprehensive database. We offer tools to identify subtle indicators, aiming for improved patient care outcomes.
 
 ## Solution
 ### General Approach
